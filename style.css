@@ -1,0 +1,9 @@
+*{
+    margin : 0;
+    padfing: 0;
+    font-family: "poppins", snas-serif;
+    box-sizing: border-box;
+}
+.contianer{
+    width: 100%
+}
